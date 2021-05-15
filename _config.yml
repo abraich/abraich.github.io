@@ -7,25 +7,25 @@ version: 2
 
 # Personal info
 name: Ayoub Abraich
-title: PhD candidate, Causal Inference & Deep Learning
+title: PhD Candidate in Statistics/Causal inference & Machine Learning
 email: ayoub.abraich@universite-paris-saclay.fr
-website: www.github.com/abraich
+website: www.abraich.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  abraich
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: ayoub-abraich
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
