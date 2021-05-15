@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ayoub and I'm a first year Ph.D. candidate in Department of Statistics (LaMME) , Paris Saclay University, advised by Professor Agathe Guilloux & Professor Blaise Hanczar. 
   I obtained M.Sc. in Data Science from Paris Saclay University, France.My main research interest lies in the field of probabilistic modeling, machine learning and causal inference, that is,
